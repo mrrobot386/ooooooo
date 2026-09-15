@@ -1,0 +1,6 @@
+{
+  "name": "VAST AI",
+  "description": "Licensed Movie AI Editor with automated scene analysis, shorts generation, multilingual dubbing (Bangla, English, Hindi), and professional export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
